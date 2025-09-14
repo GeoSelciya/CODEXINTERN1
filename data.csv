@@ -1,0 +1,11 @@
+Product,Category,Sales,Profit,Advertising_Spend
+Laptop,Electronics,1200,300,200
+Tablet,Electronics,800,150,150
+Phone,Electronics,600,200,180
+Monitor,Electronics,300,50,100
+Headphones,Accessories,150,30,50
+Laptop,Electronics,1300,350,220
+Tablet,Electronics,850,180,160
+Phone,Electronics,700,220,190
+Monitor,Electronics,400,70,120
+Headphones,Accessories,200,40,60
